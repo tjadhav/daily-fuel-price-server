@@ -1,0 +1,31 @@
+{
+  "name": "daily-fuel-price-server",
+  "version": "1.0.0",
+  "description": "Get the daily fuel price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "keywords": [
+    "Daily",
+    "Fuel",
+    "Price",
+    "in",
+    "India",
+    "Daily",
+    "Fuel",
+    "Price",
+    "India"
+  ],
+  "author": "Tushar",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "restify": "^4.3.0",
+    "unirest": "^0.5.1"
+  },
+  "engines": {
+    "node": "^6.0.0"
+  }
+}
